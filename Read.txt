@@ -1,0 +1,2 @@
+Dies ist eine erste Datei, um die Nutzung von git, github und DevOps zu erlernen
+J. Niemann 6.6.2023
